@@ -25,7 +25,7 @@ feedback-collector/ │ ├── frontend/ # React Vite app │ └── src/ 
 - ✅ Input validation and toast notifications
 - 🔐 Admin panel to view submitted feedback
 - 🌐 Backend connected to MongoDB Atlas
-- 📡 Full deployment on Netlify (frontend) and Render (backend)
+- 📡 Full deployment on Vercel (frontend) and Render (backend)
 
 ---
 
